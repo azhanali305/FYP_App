@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657200537189",
+    "project_id": "calm-mind-a079d",
+    "storage_bucket": "calm-mind-a079d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657200537189:android:bc493b36df2d199409308c",
+        "android_client_info": {
+          "package_name": "com.example.my_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWaSPwZSKWe16_-Vza8gXX88d0IDaCV38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
