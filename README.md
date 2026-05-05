@@ -1,10 +1,10 @@
-# my_fyp
+# Calm Mind
 
-A new Flutter project.
+A Part of Our Final Year Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is some part of our FYP that is Calm Mind an Assistive System for Dementia Patients.
 
 A few resources to get you started if this is your first Flutter project:
 
